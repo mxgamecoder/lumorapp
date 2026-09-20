@@ -4,7 +4,7 @@
 
 **Your all-in-one digital universe.**
 
-Chat · Cloud storage · Video · AI · Cloud hosting — free forever.
+Chat · Social · Storage · AI · Cloud hosting — free forever.
 
 [![Website](https://img.shields.io/badge/Website-lumorapp.app-8b5cf6)](https://lumorapp.app)
 
@@ -17,11 +17,15 @@ Chat · Cloud storage · Video · AI · Cloud hosting — free forever.
 Lumora is an all-in-one super app built for everyone. It combines the tools people use every day into one fast, private, free platform:
 
 - **Sachat** — secure real-time messaging with disappearing messages, communities, voice & video calls
+- **Ink** — text-first social media, Lumora's newspaper — share posts, reactions, and follow people
 - **VaultX** — encrypted cloud storage for your files and media
-- **Lumorashow** — video streaming platform
+- **Raw AI** — built-in AI assistant
 - **Cluvra** — host your web apps and static sites in the cloud
-- **Luma AI / Raw AI** — built-in AI assistant
 - **DevSchool** — learn to code step by step
+- **Studium** — AI study tools (sets, flashcards, quizzes)
+- **Arcade** — play mini-games, beat your best, earn coins
+- **Marketplace** — buy & sell templates
+- **API Hub** — buy & sell APIs
 
 ## Features
 
